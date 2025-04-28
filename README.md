@@ -1,4 +1,4 @@
-# Data Engineering and Python Portfolio: A Classical Symphony of Code
+# Data Engineering and Python Portfolio: A Symphony of Code
 
 Welcome to my portfolio repository, a unique collection of data engineering and Python projects, creatively structured as a metaphor for classical music. Inspired by the intricate harmony of musical compositions, this repository showcases my technical skills and growth as a developer through three distinct stages—Prelude, Étude, and Fugue—each symbolizing a different level of complexity and mastery.
 
@@ -8,27 +8,27 @@ Just as musical scores translate human emotion into a universal language, the sc
 
 ## Repository Structure
 
-### 01_Prelude
+### Prelude
 The Prelude section introduces foundational concepts through beginner-level scripts. Like an opening melody, these notebooks set the tone for future exploration.
 
-- **00_hello_world.ipynb**: The classic "Hello, World!" program.
-- **01_variables.ipynb**: Basics of variables in Python.
-- **02_operators.ipynb**: Introduction to operators and expressions.
-- **03_conditional_statements.ipynb**: Fundamental conditional logic.
+- **hello_world.ipynb**: The classic "Hello, World!" program.
+- **variables.ipynb**: Basics of variables in Python.
+- **operators.ipynb**: Introduction to operators and expressions.
+- **conditional_statements.ipynb**: Fundamental conditional logic.
 
 ---
 
-### 02_Etude
+### Etude
 Étude represents practice and skill refinement. This section focuses on data manipulation and processing tasks, divided into two projects.
 
-#### 01_Project_Data_manipulating
+#### Project_Data_manipulating
 Subprojects exploring text transformation, cleaning, and divisibility tests:
-- **01_transforming_text.ipynb**
-- **01_transformation_and_cleaning.ipynb**
-- **01_divisibility_test.ipynb**
-- **Cleanin_and_filter_order_data.ipynb**
+- **transforming_text.ipynb**
+- **transformation_and_cleaning.ipynb**
+- **divisibility_test.ipynb**
+- **cleanin_and_filter_order_data.ipynb**
 
-#### 02_Project_Data_processing
+#### Project_Data_processing
 A deeper dive into real-world data:
 - **json_scraping.ipynb**: Extracting information from a spotify playlist.
 - **web_scraping.ipynb**: Extracting information from the web.
@@ -36,10 +36,10 @@ A deeper dive into real-world data:
 
 ---
 
-### 03_Fugue
+### Fugue
 The Fugue section showcases advanced projects, emphasizing complexity and parallelism. Inspired by the polyphonic structure of fugues, these notebooks represent sophisticated pipelines and integrations.
 
-#### 01_Project_Data_ETL
+#### Project_Data_ETL
 Scripts for Extract, Transform, Load (ETL) operations and visualization:
 - **AWS_Lambda_Chicago_taxi_extract.ipynb**
 - **AWS_Lambda_Chicago_taxi_transform_load.ipynb**
