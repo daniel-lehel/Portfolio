@@ -1,6 +1,6 @@
 # Data Engineering and Python Portfolio: A Symphony of Code
 
-Welcome to my portfolio repository, a unique collection of data engineering and Python projects, creatively structured as a metaphor for classical music. Inspired by the intricate harmony of musical compositions, this repository showcases my technical skills and growth as a developer through three distinct stages—Prelude, Étude, and Fugue—each symbolizing a different level of complexity and mastery.
+Welcome to my portfolio repository, a unique collection of data engineering and Python projects, creatively structured as a metaphor for classical music. Inspired by the intricate harmony of musical compositions, this repository showcases my technical skills and growth as a developer through three distinct stages — Prélude, Étude, and Fugue — each symbolizing a different level of complexity and mastery.
 
 Just as musical scores translate human emotion into a universal language, the scripts in this repository convert data into actionable insights. The art of coding parallels the art of composing; both require precision, creativity, and a deep understanding of structure. Explore the repository and experience how code and sheet music resonate across different domains.
 
