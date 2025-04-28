@@ -25,9 +25,12 @@ The Prelude section introduces foundational concepts through beginner-level scri
 Subprojects exploring text transformation, cleaning, and divisibility tests:
 - **01_transforming_text.ipynb**
 - **01_transformation_and_cleaning.ipynb**
+- **01_divisibility_test.ipynb**
+- **Cleanin_and_filter_order_data.ipynb**
 
 #### 02_Project_Data_processing
 A deeper dive into real-world data:
+- **json_scraping.ipynb**: Extracting information from a spotify playlist.
 - **web_scraping.ipynb**: Extracting information from the web.
 - **chicago_data_to_mapping.ipynb**: Data visualization and analysis.
 
@@ -39,6 +42,7 @@ The Fugue section showcases advanced projects, emphasizing complexity and parall
 #### 01_Project_Data_ETL
 Scripts for Extract, Transform, Load (ETL) operations and visualization:
 - **AWS_Lambda_Chicago_taxi_extract.ipynb**
+- **AWS_Lambda_Chicago_taxi_transform_load.ipynb**
 - **Local_visualisations.ipynb**
 
 ---
